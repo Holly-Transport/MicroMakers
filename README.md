@@ -1,6 +1,6 @@
 # MicroMakers Afterschool Coding Club
 
-Dear MicroMakers,
+Dear MicroMakers (and your parents),
 
 I am so honored and delighted to have this opportunity to work with and learn from you, while we solve challenges by building nifty gadgets. 
 
@@ -15,7 +15,7 @@ In MicroMakers, by making new gadgets during every meet up, we will cover the fo
  - Computer memory
  - Electric circuits
  - Programming fundamentals (variables and constants, functions, loops, logic, and math)
- - The “making” process (problem statement, solution design, testing and iteration, documentation, and dissemination)
+ - The “making” process (problem statement, solution design, testing and iteration, documentation, and sharing)
  
  ## Materials
  In this open-source repository, you will find:
