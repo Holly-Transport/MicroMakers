@@ -32,3 +32,15 @@ Thank you again -- I cannot wait to see the wonderful inventions you will make!
 Ms. Holly
 
 P.S. If you are just checking out our repo and would like to use these materials for your own coding club, that would be fabulous! Pretty please let me know how it goes and whether you have ideas on how we can make the program even better ❤️
+
+
+## Credits and Resources
+
+ - Concepts, Slides, Script, Activities: [Holly Krambeck](learningpython64@gmail.com)
+ - Videos, Illustrations, and Projects (unless otherwise noted): [Micro:bit.org](https://microbit.org/get-started)
+ - More Information about Physical Computing:
+    + [Wikipedia overview of physical computing](https://en.wikipedia.org/wiki/Physical_computing)
+    + [MIT description of physical computing for kids](http://k12maker.mit.edu/physical-computing.html)
+    + [Microsfot introduction to MakeCode](https://www.microsoft.com/en-us/research/uploads/prod/2020/04/physical-computing.pdf)
+    + [Temple University guides on physical computing guides](https://guides.temple.edu/c.php?g=419841&p=2863656)
+
