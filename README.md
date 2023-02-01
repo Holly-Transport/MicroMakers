@@ -31,7 +31,7 @@ Thank you again -- I cannot wait to see the wonderful inventions you will make!
 <br>
 Ms. Holly
 
-P.S. If you are just checking out our repo and would like to use these materials for your own coding club, that would be fabulous! Pretty please let me know how it goes and whether you have ideas on how we can make the program even better ❤️
+P.S. If you are just checking out our repo and would like to use these materials for your own coding club, that would be fabulous! Pretty please let me know how it goes and whether you have ideas on how we can make the program even better 😃
 
 
 ## Credits and Resources
