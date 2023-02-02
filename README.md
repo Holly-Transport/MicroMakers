@@ -18,7 +18,7 @@ In MicroMakers, by making new gadgets during every meet up, we will cover the fo
  - The “making” process (problem statement, solution design, testing and iteration, documentation, and sharing)
  
  ## Materials
- In this open-source repository, you will find:
+ In this repository, you will find:
  
  - Lab Notebook with code examples, badge record keeper, and spaces for your notes
  - Meetup slides
