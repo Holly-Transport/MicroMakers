@@ -1,6 +1,6 @@
 # MicroMakers Afterschool Coding Club
 
-Dear MicroMakers (and your parents),
+Dear MicroMakers (and your super cool parents),
 
 I am so honored and delighted to have this opportunity to work with and learn from you, while we solve challenges by building nifty gadgets. 
 
